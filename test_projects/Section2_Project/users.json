@@ -1,0 +1,2 @@
+{:email=>"test@test.com", :name=>"Conor Downey", :permissions=>{:accounts=>"read", :policies=>"write", :users=>"write"}}
+{:email=>"test@test.com", :name=>"Tony", :permissions=>{:accounts=>"read", :policies=>"write", :users=>"write"}}
